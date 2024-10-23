@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
-#include "..\DivisorsLib\Divisors.h"
-#include "..\benchmark\benchmark.h"
+#include "../DivisorsLib/Divisors.h"
+#include "../benchmark/benchmark.h"
 
 int main()
 {
